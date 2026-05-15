@@ -30,10 +30,4 @@ Atualmente, sigo evoluindo na área de tecnologia, buscando melhorar minhas habi
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp" width="40" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="40" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="40" style="margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" style="margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/78ba38f8-0fdf-45de-88ea-d577508551e7" width="40" style="margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="40" style="margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" style="margin: 5px;" />
-  <img src="https://github.com/user-attachments/assets/bd3dd1c4-0266-4c93-82aa-9f93b66fc098" width="50" style="margin: 5px;" />
 </p>
