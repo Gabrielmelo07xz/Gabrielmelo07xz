@@ -17,10 +17,6 @@ Atualmente, sigo evoluindo na área de tecnologia, buscando melhorar minhas habi
 * 🧠  Estou aprendendo Python 
 * 🤝  Estou aberto a colaborar em Projetos com desenvolvimento web
 
-<a href="https://www.github.com/ManoRicck" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ManoRicck?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-
 ### Habilidades
 
 <p align="left">
