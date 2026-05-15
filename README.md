@@ -3,8 +3,6 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&size=30&color=FFFFFF&pause=500&width=450&lines=🚀Desenvolvedor-Front-End;🎨Web+Designer)](https://git.io/typing-svg)
 -------------------------------------
-<img align="left" width="180px" src="https://github.com/user-attachments/assets/2d7a0e07-8308-45c6-b53a-1de0e8894792" />
-<br />
 <p align="left">Sou estudante do 2º ano de Análise e Desenvolvimento de Sistemas pelo Mediotec Senac, com foco em desenvolvimento front-end.
 Tenho conhecimento em HTML, CSS e JavaScript para criação de interfaces web, além de familiaridade com UI/UX. Gosto de desenvolver aplicações modernas, intuitivas e funcionais, sempre pensando na experiência do usuário.
 Atualmente, sigo evoluindo na área de tecnologia, buscando melhorar minhas habilidades em front-end e UI/UX, aprofundando meus conhecimentos em HTML, CSS, JavaScript e Figma por meio de projetos práticos.</p>
