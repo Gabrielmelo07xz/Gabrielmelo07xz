@@ -1,6 +1,6 @@
-<h1 align="center">Salve 👋 Eu sou Gabriel</h1>
+<h1 align="center">Olá 👋 Meu nome é Gabriel Melo</h1>
 
-<h3 align="center">💻 Estudante de ADS | Futuro Desenvolvedor Full Stack</h3>
+<h3 align="center">💻 Estudante de ADS |  Desenvolvedor Front-End</h3>
 
 ---
 
@@ -9,10 +9,9 @@
 ### 🚀 Sobre mim
 
 - 🎓 Estudando ADS
-- 💻 Aprendendo JavaScript, HTML, CSS e Python
-- 🔐 Interesse em Cibersegurança
+- 💻 Aprendendo JavaScript
 - 📚 Sempre buscando aprender novas tecnologias
-- 🎯 Objetivo de me tornar Desenvolvedor Full Stack
+- 🎯 Objetivo de me tornar Desenvolvedor Front-End
 - 🤝 Aberto para projetos e aprendizado
 
 ---
@@ -51,25 +50,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
-### 🔥 Sequência de contribuições
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 🐍 Snake Animation
-
-![Snake animation](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
-
----
-
-<div align="center">
 
 ⭐ Obrigado por visitar meu perfil!
 
