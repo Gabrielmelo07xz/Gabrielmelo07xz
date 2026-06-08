@@ -1,4 +1,4 @@
-Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Gabriel Melo
+Olá,Meu nome é Gabriel Melo
 =========================================================================================================================================
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&size=30&color=FFFFFF&pause=500&width=450&lines=🚀Desenvolvedor-Front-End;🎨Web+Designer)](https://git.io/typing-svg)
@@ -10,7 +10,7 @@ Atualmente, sigo evoluindo na área de tecnologia, buscando melhorar minhas habi
 <br/>
 
 * ✉️  Você pode entrar em contato comigo pelo e-mail [itsgabriel.mello@gmail.com](mailto:itsgabriel.mello@gmail.com)
-* 🧠  Estou aprendendo Python 
+* 🧠  Estou aprendendo Banco de dados 
 * 🤝  Estou aberto a colaborar em Projetos com desenvolvimento web
 
 ### Habilidades
