@@ -46,10 +46,5 @@ Olá,Meu nome é Gabriel Melo
   <img src="https://img.shields.io/badge/Front--End-87CEFA?style=for-the-badge" />
 </p>
 
-
-## 📊 Estatísticas
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)
+---
 ---
