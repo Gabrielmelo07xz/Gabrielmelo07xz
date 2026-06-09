@@ -40,6 +40,10 @@ Olá,Meu nome é Gabriel Melo
 
 ## 🎯 Áreas de Foco
 
-| Desenvolvimento Web | UI/UX Design | Front-End |
+<p align="center">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20Web-87CEFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI%2FUX%20Design-87CEFA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Front--End-87CEFA?style=for-the-badge" />
+</p>
 
 ---
