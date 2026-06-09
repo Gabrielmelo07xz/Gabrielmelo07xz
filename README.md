@@ -21,6 +21,12 @@ Olá,Meu nome é Gabriel Melo
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+### Backend & Banco de Dados
+<p>
+   <img src="https://skillicons.dev/icons?i=python" />
+   <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 ### UI/UX & Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
