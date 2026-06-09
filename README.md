@@ -27,7 +27,7 @@ Olá,Meu nome é Gabriel Melo
 
 ### UI/UX & Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
 ### Atualmente Aprendendo
