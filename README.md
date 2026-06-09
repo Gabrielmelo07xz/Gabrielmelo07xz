@@ -11,6 +11,7 @@ Olá,Meu nome é Gabriel Melo
 - 🎨 Familiaridade com UI/UX e Figma
 - 📚 Aprimorando habilidades por meio de projetos práticos
 
+Desenvolvedor Front-End em formação, apaixonado por tecnologia, design de interfaces e desenvolvimento web. Sempre buscando aprender novas tecnologias e transformar ideias em projetos práticos.
 ---
 
 ## 🛠️ Stack & Tecnologias
