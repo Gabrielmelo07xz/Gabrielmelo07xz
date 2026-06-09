@@ -12,7 +12,7 @@ Olá,Meu nome é Gabriel Melo
 - 📚 Aprimorando habilidades por meio de projetos práticos
 
 <p>
-  Desenvolvedor Front-End em formação, com interesse em desenvolvimento web, UI/UX e design de interfaces. Estou sempre em busca de novos conhecimentos e desafios, utilizando projetos práticos para aprimorar minhas habilidades e criar soluções modernas, acessíveis e centradas no usuário.
+  Desenvolvedor Front-End em formação, com interesse em desenvolvimento web, UI/UX e design de interfaces. Busco aprimorar minhas habilidades por meio de projetos práticos, criando soluções modernas e focadas na experiência do usuário.
 </p>
 ---
 
