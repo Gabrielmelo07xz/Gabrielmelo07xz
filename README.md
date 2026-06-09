@@ -44,15 +44,3 @@ Olá,Meu nome é Gabriel Melo
 | Desenvolvimento Web | UI/UX Design | Front-End |
 
 ---
-
-## 📈 Estatísticas
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight" />
-</p>
-
----
