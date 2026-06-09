@@ -8,7 +8,6 @@ Olá,Meu nome é Gabriel Melo
 
 - 🎓 Cursando Análise de Desenvolvimento de Sistemas
 - 💻 Focado em Desenvolvimento Front-End
-- 🌐 Conhecimentos em HTML, CSS e JavaScript
 - 🎨 Familiaridade com UI/UX e Figma
 - 🚀 Interesse em criar interfaces modernas, intuitivas e funcionais
 - 📚 Aprimorando habilidades por meio de projetos práticos
