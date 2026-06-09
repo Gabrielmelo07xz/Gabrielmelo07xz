@@ -32,11 +32,6 @@ Olá,Meu nome é Gabriel Melo
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### Atualmente Aprendendo
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
 ### Ferramentas
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
