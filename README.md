@@ -42,7 +42,6 @@ Olá,Meu nome é Gabriel Melo
 ## 🎯 Áreas de Foco
 
 | Desenvolvimento Web | UI/UX Design |
-|---------------------|--------------|---------------|-----------|
 
 ---
 
