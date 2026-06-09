@@ -27,7 +27,7 @@ Olá,Meu nome é Gabriel Melo
   <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
-### Banco de Dados
+### Atualmente Aprendendo
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
