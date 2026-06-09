@@ -41,7 +41,7 @@ Olá,Meu nome é Gabriel Melo
 
 ## 🎯 Áreas de Foco
 
-| Desenvolvimento Web | UI/UX Design | Boas Práticas | Front-End |
+| Desenvolvimento Web | UI/UX Design |
 |---------------------|--------------|---------------|-----------|
 
 ---
@@ -57,13 +57,3 @@ Olá,Meu nome é Gabriel Melo
 </p>
 
 ---
-
-## 🤝 Vamos Conectar?
-
-Interessado em networking, aprendizado colaborativo e oportunidades na área de tecnologia.
-
-📧 **itsgabriel.mello@gmail.com**
-
-<a href="https://github.com/SEUUSUARIO">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
