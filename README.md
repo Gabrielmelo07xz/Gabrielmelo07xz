@@ -4,11 +4,11 @@ Olá,Meu nome é Gabriel Melo
 [![Typing SVG](https://readme-typing-svg.demolab.com?weight=900&size=30&color=FFFFFF&pause=500&width=450&lines=🚀Desenvolvedor-Front-End;🎨Web+Designer)](https://git.io/typing-svg)
 -------------------------------------
 
-
 ## 👨‍💻 Sobre Mim
 
 - 🎓 Cursando Análise de Desenvolvimento de Sistemas
 - 💻 Focado em Desenvolvimento Front-End
+- 🌐 Conhecimentos em HTML, CSS e JavaScript
 - 🎨 Familiaridade com UI/UX e Figma
 - 🚀 Interesse em criar interfaces modernas, intuitivas e funcionais
 - 📚 Aprimorando habilidades por meio de projetos práticos
@@ -41,7 +41,8 @@ Olá,Meu nome é Gabriel Melo
 
 ## 🎯 Áreas de Foco
 
-| Desenvolvimento Web | UI/UX Design |
+| Desenvolvimento Web | UI/UX Design | Front-End |
+|---------------------|--------------|---------------|-----------|
 
 ---
 
