@@ -35,7 +35,7 @@ Olá! Eu sou Gabriel Melo.
 
 ### Atualmente Aprendendo
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 
