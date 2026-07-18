@@ -25,7 +25,7 @@ Olá! Eu sou Gabriel Melo.
 
 ### Backend & Banco de Dados
 <p>
-   <img src="https://skillicons.dev/icons?i=python,sql,sqlite,mysql" />
+   <img src="https://skillicons.dev/icons?i=python,sqlite,mysql" />
 </p>
 
 ### UI/UX & Design
